@@ -17,6 +17,7 @@ class Account
 				e.printStackTrace();
 			}
 			System.out.println("Current Amount: "+amount);
+			System.out.println("Exceuction of Project Successful");
 		}
 	}
 	public void deposit(int amount)
